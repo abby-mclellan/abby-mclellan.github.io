@@ -1,16 +1,53 @@
 body {
 	margin: 0;
 	padding: 0;
-	background: lightblue;
-	color: white;
-	font-family: arial;
+	background: #383838;
+	color: #d5e9ef;
+	font-family: Thasadith, sans-serif;
 }
+
 main {
 	padding: 1em;
 }
+
 h1 {
 	margin: 0 0 1em 0;
+	text-align: center;
 }
+
+h3{
+	text-align: right;
+}
+
+h4{
+	font-family: Thasadith, sans-serif;
+	text-align: right;
+	font-size: 14pt;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+audio {
+display: block;
+  margin-left: auto;
+  margin-right: 0;
+  width: 40%;
+}
+
 p {
 	margin: 0 0 1em 0;
+	font-family: roboto, sans-serif;
+	text-align: right;
+	font-size: 12pt;
+}
+
+table {
+	width: 100%;
+	font-size: 10pt;
+	text-align: top, center
 }
