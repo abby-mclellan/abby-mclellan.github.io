@@ -51,3 +51,7 @@ table {
 	font-size: 10pt;
 	text-align: top, center
 }
+
+th {
+	vertical-align: text-bottom;
+}
